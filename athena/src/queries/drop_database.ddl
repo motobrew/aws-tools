@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS {{ athena_db }} CASCADE
+;
